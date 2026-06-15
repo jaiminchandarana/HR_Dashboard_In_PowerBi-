@@ -21,3 +21,4 @@ SQL (PostgreSQL)
 Data Modeling
 Data Visualization Techniques
 Microsoft Excel (for data manipulation)
+also try [https://logicalc.org/](https://logicalc.org/)
